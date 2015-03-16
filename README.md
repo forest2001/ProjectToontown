@@ -5,4 +5,4 @@ Pull Requests are always good.
 - We do not just contribute, we make pull requests.
 - Please contribute daily
 - Please do NOT contribute viruses.
-- NYESS
+- Feel free to edit any file, at any time. 
